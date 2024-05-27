@@ -9,8 +9,8 @@
 
 <channel>
 	<title></title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/mercure-protection/feed/" rel="self" type="application/rss+xml" />
+	<link>/mercure-protection/</link>
 	<description></description>
 	<lastBuildDate>Sun, 12 May 2024 10:01:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>/mercure-protection/hello-world/</link>
+					<comments>/mercure-protection/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 12 May 2024 10:01:49 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/mercure-protection/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/mercure-protection/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
